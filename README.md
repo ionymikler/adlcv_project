@@ -34,7 +34,7 @@ This are lthemodules I had loaded when manged to make it work, by loading the mo
 ### MonoDETR
 1. set the absolute path to the dataset in the `configs/monodetr.yaml` file, in the filed `dataset/root_dir`
 2. Inside 'kitti_data/' unzip the `data_prep/ImageSets.zip` file
-3. Download the KITTI dataset from the official website  store it in a folder (here named 'kitti_data/') (WARNING: Watch out for size limits, ask for scratch space from HPC)
+3. Download **_this_** [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset from the official website  store it in a folder (here named 'kitti_data/') (WARNING: Watch out for size limits, ask for scratch space from HPC)
    1. Download (left) color images, calibration and labels zip files
    <!-- #TODO: include code for unzipping in the right directory name  -->
         ```bash
