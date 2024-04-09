@@ -2,7 +2,12 @@
 
 Code base for CubeDETR: End-to-End 3D Object Detection with Transformers project for the class 'Advance Deep Learning for Computer Vision' at DTU
 
+
 # Installation and setups
+Clone this repo and fetch the submodules:
+
+`git submodule update --init --recursive`
+
 ## Environment
 For now, inspired in the installation guide for MonoDETR
 
