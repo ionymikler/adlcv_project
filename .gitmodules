@@ -1,3 +1,8 @@
 [submodule "models/monoDETR"]
 	path = models/monoDETR
 	url = git@github.com:esquivelrs/MonoDETR.git
+
+
+[submodule "models/omni3d"]
+	path = models/omni3d
+	url = git@github.com:facebookresearch/omni3d.git
